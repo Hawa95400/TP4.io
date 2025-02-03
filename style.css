@@ -1,4 +1,4 @@
-/* Sections Description IMC Règles et Moi */
+/* Sections Description IMC */
 section#description-imc { 
     background-color: white;
     color: black;
@@ -34,7 +34,7 @@ section#description-imc .formule {
 
 
 
-/* Sections Calculs IMC et Règles */
+/* Sections Calculs IMC */
 section#imc {
     background-color: white;
     color: black;
